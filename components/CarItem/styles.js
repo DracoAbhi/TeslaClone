@@ -35,6 +35,17 @@ const styles = StyleSheet.create ({
     
       },
 
+      buttonsContainer : {
+        position:'absolute',
+        bottom:50,
+        width:'100%',
+      },
+
+      subtitleCTA : {
+        textDecorationLine : 'underline',
+
+      }
+
 });
 
 export default styles;
